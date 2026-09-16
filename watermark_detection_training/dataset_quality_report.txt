@@ -1,0 +1,151 @@
+Dataset Quality Report
+==================================================
+
+Statistics:
+  Total pairs found: 1597
+  Valid pairs: 1562
+  Failed pairs: 35
+  Success rate: 97.8%
+
+Failed Pairs:
+------------------------------
+Clean: img00093.png
+Watermark: img00093_wm.jpg
+Reason: Size mismatch: 0.28
+
+Clean: img00050.png
+Watermark: img00050_wm.jpg
+Reason: Size mismatch: 0.32
+
+Clean: img00044.png
+Watermark: img00044_wm.jpg
+Reason: Size mismatch: 0.31
+
+Clean: img00045.png
+Watermark: img00045_wm.jpg
+Reason: Size mismatch: 0.33
+
+Clean: img00051.png
+Watermark: img00051_wm.jpg
+Reason: Size mismatch: 0.32
+
+Clean: img00096.png
+Watermark: img00096_wm.jpg
+Reason: Size mismatch: 0.31
+
+Clean: img00055.png
+Watermark: img00055_wm.jpg
+Reason: Size mismatch: 0.33
+
+Clean: img00069.png
+Watermark: img00069_wm.jpg
+Reason: Size mismatch: 0.31
+
+Clean: img00068.png
+Watermark: img00068_wm.jpg
+Reason: Size mismatch: 0.31
+
+Clean: img00040.png
+Watermark: img00040_wm.jpg
+Reason: Size mismatch: 0.33
+
+Clean: img00054.png
+Watermark: img00054_wm.jpg
+Reason: Size mismatch: 0.32
+
+Clean: img00081.png
+Watermark: img00081_wm.jpg
+Reason: Size mismatch: 0.31
+
+Clean: img00095.png
+Watermark: img00095_wm.jpg
+Reason: Size mismatch: 0.31
+
+Clean: img00057.png
+Watermark: img00057_wm.jpg
+Reason: Size mismatch: 0.31
+
+Clean: img00024.png
+Watermark: img00024_wm.jpg
+Reason: Size mismatch: 0.34
+
+Clean: img00027.png
+Watermark: img00027_wm.jpg
+Reason: Size mismatch: 0.31
+
+Clean: img00020.png
+Watermark: img00020_wm.jpg
+Reason: Size mismatch: 0.31
+
+Clean: img00011.png
+Watermark: img00011_wm.jpg
+Reason: Size mismatch: 0.32
+
+Clean: img00010.png
+Watermark: img00010_wm.jpg
+Reason: Size mismatch: 0.31
+
+Clean: img00004.png
+Watermark: img00004_wm.jpg
+Reason: Size mismatch: 0.32
+
+Clean: img00013.png
+Watermark: img00013_wm.jpg
+Reason: Size mismatch: 0.31
+
+Clean: img00015.png
+Watermark: img00015_wm.jpg
+Reason: Size mismatch: 0.31
+
+Clean: img00001.png
+Watermark: img00001_wm.jpg
+Reason: Size mismatch: 0.32
+
+Clean: img00072.png
+Watermark: img00072_wm.jpg
+Reason: Size mismatch: 0.31
+
+Clean: img00073.png
+Watermark: img00073_wm.jpg
+Reason: Size mismatch: 0.41
+
+Clean: img00059.png
+Watermark: img00059_wm.jpg
+Reason: Size mismatch: 0.31
+
+Clean: img00071.png
+Watermark: img00071_wm.jpg
+Reason: Size mismatch: 0.31
+
+Clean: img00058.png
+Watermark: img00058_wm.jpg
+Reason: Size mismatch: 0.33
+
+Clean: img00048.png
+Watermark: img00048_wm.jpg
+Reason: Size mismatch: 0.34
+
+Clean: img00049.png
+Watermark: img00049_wm.jpg
+Reason: Size mismatch: 0.31
+
+Clean: img00061.png
+Watermark: img00061_wm.jpg
+Reason: Size mismatch: 0.32
+
+Clean: img00075.png
+Watermark: img00075_wm.jpg
+Reason: Size mismatch: 0.38
+
+Clean: img00030.jpg
+Watermark: img00030_wm.jpg
+Reason: Size mismatch: 0.35
+
+Clean: img00017.jpg
+Watermark: img00017_wm.jpg
+Reason: Size mismatch: 0.39
+
+Clean: img00067.jpg
+Watermark: img00067_wm.jpg
+Reason: Size mismatch: 0.39
+

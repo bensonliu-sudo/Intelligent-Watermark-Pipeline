@@ -1,0 +1,38 @@
+{
+  "config": {
+    "device": "auto",
+    "image_size": 384,
+    "quality_threshold": 0.8,
+    "mask_dilation": 9,
+    "mask_threshold": 0.45,
+    "feather_radius": 7,
+    "batch_size": 10,
+    "num_epochs": 10,
+    "learning_rate": 0.0005,
+    "weight_decay": 1e-05,
+    "pos_weight": 6.0,
+    "patience": 15,
+    "val_ratio": 0.15,
+    "num_workers": 4,
+    "save_every": 5,
+    "save_best_only": true
+  },
+  "best_metrics": {
+    "val_loss": 1.318598844556727,
+    "val_dice": 0.6623358076589569,
+    "epoch": 10
+  },
+  "final_metrics": {
+    "train_loss": 1.2163522913770857,
+    "val_loss": 1.318598844556727,
+    "train_dice": 0.6469777578452848,
+    "val_dice": 0.6619424047150885
+  },
+  "total_epochs": 10,
+  "device_info": {
+    "device_type": "mps",
+    "name": "Apple Silicon (MPS)",
+    "unified_memory": true,
+    "optimization": "MPS Backend"
+  }
+}

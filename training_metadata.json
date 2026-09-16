@@ -1,0 +1,17 @@
+{
+  "dataset_signature": "cf9266b2432d0748258db6db4c7c5823",
+  "file_count": 3141,
+  "training_timestamp": 1756633281.253348,
+  "training_params": {
+    "epochs": 20,
+    "batch_size": 4,
+    "learning_rate": 0.001,
+    "final_epoch": 13
+  },
+  "performance": {
+    "best_val_loss": 0.035332561517134306,
+    "final_train_loss": 0.04215052705258131,
+    "total_data_pairs": 1597
+  },
+  "model_path": "pure_deep_model.pth"
+}
